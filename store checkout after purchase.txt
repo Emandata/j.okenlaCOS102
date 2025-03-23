@@ -1,0 +1,32 @@
+Start
+ |
+ v
+Customer selects items
+ |
+ v
+Proceed to checkout
+ |
+ v
+Scan items
+ |
+ v
+Calculate total cost
+ |
+ v
+Ask for payment method (Cash or Card)
+ |        \
+ v         v
+Cash     Card
+ |         |
+ v         v
+Receive   Process card
+payment   payment
+ |
+ v
+Print receipt
+ |
+ v
+Give items and receipt to customer
+ |
+ v
+End

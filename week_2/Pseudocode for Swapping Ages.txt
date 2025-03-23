@@ -1,0 +1,10 @@
+Pseudocode for Swapping Ages:
+
+Start
+1. Input Name1 and Age1
+2. Input Name2 and Age2
+3. Swap the values of Age1 and Age2
+   (e.g., Temp = Age1, Age1 = Age2, Age2 = Temp)
+4. Display Name1 with Age1
+5. Display Name2 with Age2
+End
